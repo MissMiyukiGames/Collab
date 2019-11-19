@@ -4,8 +4,13 @@ mlt() {
 		echo 'Michael Trigoboff'
 }
 
+jmp() {
+		echo 'Jacob Purvis'
+}
+
 run() {
 		mlt
+		jmp
 }
 
 run

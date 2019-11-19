@@ -15,6 +15,7 @@ meo() {
 run() {
 		mlt
 		jmp
+		meo
 }
 
 run

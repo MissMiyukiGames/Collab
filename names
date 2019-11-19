@@ -4,8 +4,17 @@ mlt() {
 	echo 'Michael Trigoboff'
 }
 
+jmp() {
+		echo 'Jacob Purvis'
+}
+
+meo() {
+		echo 'Marina Odegaard'
+}
+
 run() {
-	mlt
+		mlt
+		jmp
 }
 
 run
